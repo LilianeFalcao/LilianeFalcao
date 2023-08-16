@@ -14,7 +14,7 @@ Ferramentas que tive contato:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <a href="https://github.com/LilianeFalcao/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSMartins999" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LilianeFalcao" />
 </a>
 <a href="https://github.com/LilianeFalcao/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GSMartins999&layout=compact&langs_count=8&card_width=320" />
