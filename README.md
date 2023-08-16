@@ -1,6 +1,6 @@
 ### oi 👋
 
-Me chamo Liliane de Oliveira Falcão, sou recem formada como técnico em informática pelo Centro Federal de Educação Tecnologica_CEFET-MG, onde tive a oportunidade de aprender e desenvolver meus primeiros projetos, e soluções de lógica. Atualmente estou cursando Bacharel em Sistemas de Informação também pelo Cefet.
+Me chamo Liliane de Oliveira Falcão, sou recem formada como técnico em informática pelo Centro Federal de Educação Tecnologica_CEFET-MG, onde tive a oportunidade de aprender e desenvolver meus primeiros projetos. Atualmente estou cursando Bacharel em Sistemas de Informação também pelo Cefet.
 
 Aqui estão minhas redes:
 
