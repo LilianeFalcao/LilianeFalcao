@@ -1,6 +1,6 @@
 ### oi 👋
 
-Me chamo Linn Falcão, sou recém formado como técnico em informática pelo Centro Federal de Educação Tecnológica CEFET-MG, onde tive a oportunidade de aprender e desenvolver meus primeiros projetos. Atualmente estou cursando Bacharelado em Sistemas de Informação também pelo CEFET-MG.
+Me chamo Linn Falcão, sou formado como técnico em informática pelo Centro Federal de Educação Tecnológica CEFET-MG campus Varginha, onde tive a oportunidade de aprender e desenvolver meus primeiros projetos. Atualmente estou cursando Bacharelado em Sistemas de Informação também pelo CEFET-MG.
 
 Aqui estão minhas redes:
 
