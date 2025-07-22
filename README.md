@@ -4,7 +4,7 @@ Me chamo Linn Falcão, sou formado como técnico em informática pelo Centro Fed
 
 Aqui estão minhas redes:
 
-<p>
+<p height=180 align="center" >
 
 <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
@@ -35,8 +35,9 @@ Aqui estão minhas redes:
 
 ###
 ---
-
-
+<a href="https://github-readme-stats.vercel.app/api?username=LilianeFalcao&show_icons=true&theme=transparent">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LilianeFalcao" />
+</a>
 <a href="https://github.com/LilianeFalcao/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilianeFalcao&layout=compact&langs_count=8&card_width=320" />
 </a>
