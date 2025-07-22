@@ -6,6 +6,10 @@ Aqui estão minhas redes:
 
 <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lilianefalcao2293@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
 Email: lilianefalcao2293@gmail.com
 
 
