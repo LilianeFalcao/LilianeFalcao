@@ -11,7 +11,7 @@ Email: lilianefalcao2293@gmail.com
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,typescript,c)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,laravel)](https://skillicons.dev)
