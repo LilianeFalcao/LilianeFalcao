@@ -36,9 +36,7 @@ Aqui estão minhas redes:
 ###
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=LilianeFalcao&show_icons=true&theme=transparent">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LilianeFalcao" />
-</a>
+
 <a href="https://github.com/LilianeFalcao/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GSMartins999&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilianeFalcao&layout=compact&langs_count=8&card_width=320" />
 </a>
