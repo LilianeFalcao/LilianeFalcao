@@ -14,6 +14,10 @@ Me chamo Linn Falcão, sou formado como técnico em informática pelo Centro Fed
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
+
+  <a href="https://www.instagram.com/glacial_linn/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  </a>
 </p>
 
 ## Tecnologias e linguagens 💻
