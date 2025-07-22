@@ -1,18 +1,20 @@
-### oi 👋
+## oi 👋
 
 Me chamo Linn Falcão, sou formado como técnico em informática pelo Centro Federal de Educação Tecnológica CEFET-MG campus Varginha, onde tive a oportunidade de aprender e desenvolver meus primeiros projetos. Atualmente estou cursando Bacharelado em Sistemas de Informação também pelo CEFET-MG.
 
-Aqui estão minhas redes:
+## Minhas Redes:
 
-<p height=180 align="center" >
+<p style="display: flex; gap: 10px; align-items: center;">
 
-<a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lilianefalcao2293@gmail.com" title="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lilianefalcao2293@gmail.com" title="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
 </p>
-
 
 ## Tecnologias e linguagens 💻
 
