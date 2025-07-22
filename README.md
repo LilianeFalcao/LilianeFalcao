@@ -4,7 +4,7 @@ Me chamo Linn Falcão, sou formado como técnico em informática pelo Centro Fed
 
 Aqui estão minhas redes:
 
-<p align="left">>
+<p>
 
 <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
