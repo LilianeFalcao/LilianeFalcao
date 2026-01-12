@@ -1,4 +1,4 @@
-## oi 👋
+## Olá, eu sou Linn 👋
 
 Sou formado como Técnico em Informática pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), campus Varginha, onde tive a oportunidade de adquirir uma base sólida e desenvolver meus primeiros projetos. Busco oportunidades para aprofundar e aprimorar os conhecimentos adquiridos durante o curso técnico, ao mesmo tempo em que ganho experiência prática na área. Atualmente, curso o Bacharelado em Sistemas de Informação, também pelo CEFET-MG.
 
