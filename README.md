@@ -13,11 +13,6 @@ Sou formado como Técnico em Informática pelo Centro Federal de Educação Tecn
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lilianefalcao2293@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-  <a href="https://www.instagram.com/glacial_linn/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
 </p>
 
 
