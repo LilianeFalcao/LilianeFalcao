@@ -1,6 +1,8 @@
 ## Olá, eu sou Linn 👋
 
-Sou formado como Técnico em Informática pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), campus Varginha, onde tive a oportunidade de adquirir uma base sólida e desenvolver meus primeiros projetos. Busco oportunidades para aprofundar e aprimorar os conhecimentos adquiridos durante o curso técnico, ao mesmo tempo em que ganho experiência prática na área. Atualmente, curso o Bacharelado em Sistemas de Informação, também pelo CEFET-MG.
+Sou formado como Técnico em Informática, formação na qual adquiri uma base sólida e desenvolvi meus primeiros projetos, tendo contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
+
+Busco oportunidades para aprofundar e aprimorar os conhecimentos adquiridos durante o curso técnico, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
 
 ## Minhas Redes:
 
