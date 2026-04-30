@@ -1,8 +1,8 @@
-## Olá, eu sou Linn 👋
+## Fala, pessoal! Linn aqui. ⚔️
 
-Sou formado como Técnico em Informática, formação na qual adquiri uma base sólida e desenvolvi meus primeiros projetos, tendo contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
+Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG. Adquiri uma base sólida durante minha formação técnica, onde desenvolvi meus primeiros projetos e tive contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
 
-Busco oportunidades para aprofundar e aprimorar os conhecimentos adquiridos durante o curso técnico, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
+Busco oportunidades para aprofundar os conhecimentos adquiridos, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
 
 ## Minhas Redes:
 
@@ -12,7 +12,7 @@ Busco oportunidades para aprofundar e aprimorar os conhecimentos adquiridos dura
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lilianefalcao2293@gmail.com" title="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
