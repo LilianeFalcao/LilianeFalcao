@@ -6,8 +6,6 @@ Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG
 
 Busco oportunidades para aprofundar os conhecimentos adquiridos, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
 
-## Minhas Redes:
-
 <p style="display: flex; gap: 10px; align-items: center;">
 
   <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">
