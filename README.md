@@ -12,19 +12,9 @@
 
   <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
-  <a 
-    href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" 
-    title="Gmail" 
-    target="_blank"
-  >
-    <img 
-      src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" 
-      alt="Gmail"
-    />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" title="Gmail" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> </a>
 
   </p>
-
 </div>
 
 Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG. Adquiri uma base sólida durante minha formação técnica, onde desenvolvi meus primeiros projetos e tive contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
