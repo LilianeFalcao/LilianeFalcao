@@ -1,6 +1,8 @@
 ## Fala, pessoal! Linn aqui. ⚔️
 
-<img src="/img/banner.png" alt="Banner"/>
+<img 
+  style="display: flex; justify-content: center;  align-items: center;"
+  src="/img/banner.png" alt="Banner"/>
 
 <p style="display: flex; gap: 10px; align-items: center;">
 
