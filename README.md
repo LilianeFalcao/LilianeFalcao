@@ -10,23 +10,18 @@
 
   <p style="display: flex; gap: 10px; justify-content: center; margin: 0;">
 
-    <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
-      />
-    </a>
+  <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
-    <a 
-      href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" 
-      title="Gmail" 
-      target="_blank"
-    >
-      <img 
-        src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" 
-        alt="Gmail"
-      />
-    </a>
+  <a 
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" 
+    title="Gmail" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" 
+      alt="Gmail"
+    />
+  </a>
 
   </p>
 
