@@ -1,6 +1,6 @@
 ## Fala, pessoal! Linn aqui. ⚔️
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 12px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
 
   <img 
     src="/img/banner.png" 
@@ -8,7 +8,7 @@
     style="max-width: 100%;"
   />
 
-  <p style="display: flex; gap: 10px; justify-content: center; margin: 0;">
+  <p style="display: flex; flex-direction: row; gap: 10px; justify-content: center; margin: 0;">
 
   <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
