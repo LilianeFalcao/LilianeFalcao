@@ -1,6 +1,6 @@
 ## Fala, pessoal! Linn aqui. ⚔️
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 12px;">
 
   <img 
     src="/img/banner.png" 
