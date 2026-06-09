@@ -4,19 +4,23 @@
 </p>
 
 <h1 align="center">
-  Linn Oliveira ⚔️
+  Linn Falcão ⚔️
 </h1>
 
 <p align="center">
-  Técnico em Informática • Bacharelanda em Sistemas de Informação • Desenvolvedora Full Stack
+  Técnico em Informática • Bacharelando em Sistemas de Informação • Desenvolvedor Full Stack
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/LilianeFalcao">
     <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
+  <a href="https://portifolio-linn.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
-  <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/">
+  <a href="www.linkedin.com/in/lilianefalcao">
     <img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -33,25 +37,23 @@
 
 ---
 
-## ⚔️ Sobre Mim
+## Sobre Mim
 
-Sou Técnica em Informática e graduanda em Sistemas de Informação pelo CEFET-MG.
+Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG. Adquiri uma base sólida durante minha formação técnica, onde desenvolvi meus primeiros projetos e tive contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
 
-Minha trajetória começou durante o curso técnico, onde desenvolvi meus primeiros projetos utilizando PHP, C, C++, Laravel e bancos de dados relacionais. Atualmente atuo principalmente com desenvolvimento web utilizando tecnologias modernas como React.js, Next.js, Node.js, Python, SQL e APIs REST.
+Busco oportunidades para aprofundar os conhecimentos adquiridos, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
 
 Tenho interesse especial por:
 
 - Desenvolvimento Full Stack
 - UX/UI Design
 - Engenharia de Software
-- Inteligência Artificial
-- Pesquisa e Desenvolvimento Acadêmico
 
 Busco constantemente transformar ideias em soluções digitais que sejam úteis, acessíveis e bem estruturadas.
 
 ---
 
-## 💻 Linguagens
+## Linguagens
 
 <p align="center">
 
@@ -66,7 +68,7 @@ Busco constantemente transformar ideias em soluções digitais que sejam úteis,
 
 ---
 
-## 🚀 Frameworks & Tecnologias
+## Frameworks & Tecnologias
 
 <p align="center">
 
@@ -81,7 +83,7 @@ Busco constantemente transformar ideias em soluções digitais que sejam úteis,
 
 ---
 
-## 🗄️ Bancos de Dados
+## Bancos de Dados
 
 <p align="center">
 
@@ -92,7 +94,7 @@ Busco constantemente transformar ideias em soluções digitais que sejam úteis,
 
 ---
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 <p align="center">
 
@@ -107,8 +109,6 @@ Busco constantemente transformar ideias em soluções digitais que sejam úteis,
 
 ---
 
-## 📈 Contribuições
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
@@ -116,10 +116,5 @@ Busco constantemente transformar ideias em soluções digitais que sejam úteis,
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+-
 
----
-
-<p align="center">
-  "Transformando ideias em soluções através da tecnologia."
-</p>
-```
