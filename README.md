@@ -1,66 +1,125 @@
-## Fala, pessoal! Linn aqui. ⚔️
+```md
+<p align="center">
+  <img src="./img/banner.png" alt="Linn Banner" width="100%" />
+</p>
 
-<div align="center">
+<h1 align="center">
+  Linn Oliveira ⚔️
+</h1>
 
-  <img 
-    src="/img/banner.png" 
-    alt="Banner"
-    width="100%"
-  />
+<p align="center">
+  Técnico em Informática • Bacharelanda em Sistemas de Informação • Desenvolvedora Full Stack
+</p>
 
-  <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=falcaol.licontato@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> 
+  <a href="https://www.linkedin.com/in/liliane-de-oliveira-falcão-a94ba0242/">
+    <img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br><br>
-</div>
 
-Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG. Adquiri uma base sólida durante minha formação técnica, onde desenvolvi meus primeiros projetos e tive contato inicial com linguagens como PHP, C e C++, além do framework Laravel. Atualmente, trabalho com tecnologias como Python, React.js, Next.js, Node.js, SQL e desenvolvimento de APIs REST.
+  <a href="mailto:falcaol.licontato@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Busco oportunidades para aprofundar os conhecimentos adquiridos, ao mesmo tempo em que amplio minha experiência prática na área. Tenho grande interesse em desenvolvimento web, área que pratico com frequência por meio de projetos pessoais, além de também me interessar por UX e UI.
-
-## 💻 Tecnologias e Linguagens
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI_UX-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEMS_INFORMATION-111827?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Frameworks e Bibliotecas
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=Next&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+## ⚔️ Sobre Mim
+
+Sou Técnica em Informática e graduanda em Sistemas de Informação pelo CEFET-MG.
+
+Minha trajetória começou durante o curso técnico, onde desenvolvi meus primeiros projetos utilizando PHP, C, C++, Laravel e bancos de dados relacionais. Atualmente atuo principalmente com desenvolvimento web utilizando tecnologias modernas como React.js, Next.js, Node.js, Python, SQL e APIs REST.
+
+Tenho interesse especial por:
+
+- Desenvolvimento Full Stack
+- UX/UI Design
+- Engenharia de Software
+- Inteligência Artificial
+- Pesquisa e Desenvolvimento Acadêmico
+
+Busco constantemente transformar ideias em soluções digitais que sejam úteis, acessíveis e bem estruturadas.
 
 ---
 
-### 🛠️ Ferramentas de Desenvolvimento
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
-<br>
+## 💻 Linguagens
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
 
-###
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+
+</p>
+
 ---
+
+## 🚀 Frameworks & Tecnologias
+
+<p align="center">
+
+![React](https://img.shields.io/badge/REACT-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NEXT.JS-111827?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/NODE.JS-111827?style=for-the-badge&logo=node.js)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-111827?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/LARAVEL-111827?style=for-the-badge&logo=laravel)
+![Tailwind](https://img.shields.io/badge/TAILWIND-111827?style=for-the-badge&logo=tailwindcss)
+
+</p>
+
+---
+
+## 🗄️ Bancos de Dados
+
+<p align="center">
+
+![MySQL](https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111827?style=for-the-badge&logo=postgresql)
+
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="center">
+
+![VSCode](https://img.shields.io/badge/VSCODE-111827?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/GIT-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/POSTMAN-111827?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/FIGMA-111827?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/VERCEL-111827?style=for-the-badge&logo=vercel)
+
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  "Transformando ideias em soluções através da tecnologia."
+</p>
+```
