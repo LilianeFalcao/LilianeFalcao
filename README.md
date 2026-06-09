@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Linn Falcão ⚔️
+  Linn Falcão
 </h1>
 
 <p align="center">
