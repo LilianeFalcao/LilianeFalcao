@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="./img/banner.png" alt="Linn Banner" width="100%" />
 </p>
