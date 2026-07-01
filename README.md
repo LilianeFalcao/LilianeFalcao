@@ -1,5 +1,4 @@
-## Fala, pessoal! Linn aqui. ⚔️
-
+## Fala, pessoal!
 <div align="center">
 
   <img 
