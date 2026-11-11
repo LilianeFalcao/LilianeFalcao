@@ -16,7 +16,7 @@
   <br>
 </div>
 
-Sou Técnico em Informática e graduando em Sistemas de Informação no CEFET-MG. Durante minha formação técnica, desenvolvi meus primeiros projetos e construí uma base em programação, com experiência em linguagens como PHP, C e C++, além do framework Laravel.
+Sou Técnico em Informática e graduando em Sistemas de Informação no UFCI-MG. Durante minha formação técnica, desenvolvi meus primeiros projetos e construí uma base em programação, com experiência em linguagens como PHP, C e C++, além do framework Laravel.
 
 Atualmente, desenvolvo projetos utilizando tecnologias como Python, React, Next.js, Node.js e SQL, com foco no desenvolvimento web e na construção de APIs REST. Busco aprimorar continuamente minhas habilidades técnicas por meio de projetos práticos, explorando boas práticas de desenvolvimento e soluções eficientes para problemas reais.
 
